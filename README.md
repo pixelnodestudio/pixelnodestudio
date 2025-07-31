@@ -1,71 +1,73 @@
-# 🌟 PixelNode Studio
+# ✨ PixelNode Studio
 
-> *Crafting Creative Code, One Pixel at a Time.*
+> **Turning Ideas into Impactful Digital Experiences.**
 
-Welcome to **PixelNode Studio** — your go-to partner for full-stack development, UI/UX design, and brand identity. We blend creativity with cutting-edge tech to build digital experiences that truly stand out.
-
----
-
-## 💼 Services We Offer
-
-- 🎨 **UI/UX Design**
-  - Web & Mobile App Design
-  - Brand Guidelines
-  - Wireframes & Prototypes
-
-- 💻 **Frontend Development**
-  - React.js / Next.js
-  - HTML, CSS, JavaScript, Bootstrap, Tailwind
-
-- 🔧 **Backend Development**
-  - Node.js, Express.js
-  - MongoDB, MySQL
-  - RESTful & GraphQL APIs
-
-- 📱 **Mobile App Development**
-  - React Native
-  - Android/iOS Compatibility
-
-- 🌐 **Full-Stack Projects**
-  - MERN Stack Solutions
-  - Admin Dashboards
-  - E-commerce Platforms
+Welcome to **PixelNode Studio** — a creative and tech-driven development space led by Kesavan.  
+We specialize in building modern, responsive, and scalable web & mobile solutions with a pixel-perfect focus.
 
 ---
 
-## 📂 Featured Projects
+## 💼 What We Do
 
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
-| **Therapist Web App** | A fully responsive therapist booking website with animations and mobile support. | React, Tailwind, Framer Motion |
-| **Textile Admin Panel** | Admin dashboard for managing textile orders, advertisements, and stock. | React, Node.js, MongoDB |
-| **Cafe Delivery App** | End-to-end food ordering system with secure payments. | MERN Stack, Razorpay, JWT |
-| **Onboarding UI** | Clone of eBANKIX onboarding and signup screens in React Native. | React Native, Axios |
+🔹 **Web Development**
+- MERN Stack Applications (MongoDB, Express.js, React.js, Node.js)
+- Responsive UI/UX with Tailwind, CSS3, Bootstrap
+- Admin Panels, Dashboards, and Business Sites
 
----
+🔹 **Mobile App Development**
+- Cross-platform apps using React Native
+- Secure Authentication & Payment Integration
+- Fast and smooth user experiences
 
-## 📈 Skills & Tools
+🔹 **Custom Backend Systems**
+- RESTful APIs
+- JWT, OAuth, Firebase Auth
+- MongoDB & Firebase Realtime DB
 
-![Tools](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,figma,vscode,photoshop,tailwind,postman,github,git)
-
----
-
-## 👨‍💻 About the Founder
-
-**Hi, I'm Kesavan** — a passionate freelance developer from India with expertise in the MERN stack. I build scalable, secure, and pixel-perfect apps tailored for real-world impact.
-
-- 📫 Email: [pixelnodestudio@gmail.com](mailto:pixelnodestudio@gmail.com)
-- 🌐 Website: Coming Soon!
-- 📱 Instagram: [@mr_tom_2807](https://instagram.com/mr_tom_2807)
-- 💬 Languages: Tamil | English
+🔹 **Design & Branding**
+- Landing Pages
+- Logo & Identity Design
+- User Experience Design
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 🛠 Tech Stack
 
-Got a vision? Let's bring it to life.  
-Whether you're a startup, agency, or individual — we craft solutions that elevate your brand.
+![Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,figma,postman,git,vscode)
 
 ---
 
-> 🚀 *Built with love by PixelNode Studio — Where Ideas Turn Into Innovation*
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Therapist SPA** | Animated, mobile-ready therapist site with booking. | Vite + React + Tailwind |
+| **Textile Admin Dashboard** | Tracks ads, orders, stock, and expenses. | React, MongoDB, Express |
+| **Flipkart Clone** | eCommerce clone with admin/user separation. | React Native, JWT, Firebase |
+| **Cafe Delivery App** | Full-stack order system with real-time tracking. | MERN, Razorpay, Socket.IO |
+
+---
+
+## 👤 About Me
+
+**Hi, I'm Kesavan**  
+I’m a Full-Stack Developer based in Tamil Nadu, India. I focus on building clean, fast, and scalable applications for web and mobile.
+
+- 🔹 Frontend: React, React Native, Tailwind
+- 🔹 Backend: Node.js, Express.js, MongoDB
+- 🔹 Passion: Clean UI, Performance, and Problem Solving
+
+---
+
+## 📫 Contact Me
+
+Let's build something great together. Reach out to start your next project!
+
+- 📧 **Email**: [contact.pixelnodestudio@gmail.com](mailto:contact.pixelnodestudio@gmail.com)  
+- 🌐 **GitHub**: [github.com/kesavsn](https://github.com/kesavsn)  
+- 📱 **Instagram**: [@mr_tom_2807](https://instagram.com/mr_tom_2807)  
+- 📍 **Location**: Tamil Nadu, India
+
+---
+
+> 🚀 *Crafted by PixelNode Studio — Creative Code. Powerful Results.*
